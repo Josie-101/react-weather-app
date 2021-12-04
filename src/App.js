@@ -4,6 +4,7 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
+      <div className="container">
       <h1>Weather App</h1>
       <footer>
         This app was coded by Jo B and is open sourced on {" "}
@@ -15,7 +16,9 @@ export default function App() {
           Github
         </a>
       </footer>
+      </div>
     </div>
+  
   );
 }
 
