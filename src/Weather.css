@@ -33,11 +33,10 @@
     list-style: none;
     }
 
-.Weather img {
-    height: 70px;
-    width: 70px;
+.Weather canvas {
     display: inline-block;
     margin-right: 10px;
+    margin-top: 5px;
     
 }
 
