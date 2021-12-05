@@ -1,6 +1,5 @@
 
 import './Weather.css';
-import './Index.css';
 import './App.css';
 import Weather from "./Weather.js";
 import WeatherInfo from "./WeatherInfo";
