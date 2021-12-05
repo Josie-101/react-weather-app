@@ -2,7 +2,7 @@
 import './Weather.css';
 import './App.css';
 import Weather from "./Weather.js";
-import WeatherInfo from "./WeatherInfo";
+
 
 export default function App() {
   return (
