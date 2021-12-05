@@ -41,7 +41,7 @@
 }
 
 .Weather .temperature {
-display: inline-block;
+
 font-weight: bold;
 color: black;
 font-size: 50px;
